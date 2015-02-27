@@ -1,0 +1,21 @@
+html {
+    background: #00d8ff;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    background: black;
+}
+
+tr {
+    background: white;
+    color: black;
+}
+
+.title {
+    color: magenta;
+}
